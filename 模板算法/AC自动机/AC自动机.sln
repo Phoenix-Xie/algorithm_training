@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AC自动机", "AC自动机\AC自动机.vcxproj", "{CEA88248-9AF8-4671-A6E3-82B72409B8BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEA88248-9AF8-4671-A6E3-82B72409B8BB}.Debug|x64.ActiveCfg = Debug|x64
+		{CEA88248-9AF8-4671-A6E3-82B72409B8BB}.Debug|x64.Build.0 = Debug|x64
+		{CEA88248-9AF8-4671-A6E3-82B72409B8BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{CEA88248-9AF8-4671-A6E3-82B72409B8BB}.Debug|x86.Build.0 = Debug|Win32
+		{CEA88248-9AF8-4671-A6E3-82B72409B8BB}.Release|x64.ActiveCfg = Release|x64
+		{CEA88248-9AF8-4671-A6E3-82B72409B8BB}.Release|x64.Build.0 = Release|x64
+		{CEA88248-9AF8-4671-A6E3-82B72409B8BB}.Release|x86.ActiveCfg = Release|Win32
+		{CEA88248-9AF8-4671-A6E3-82B72409B8BB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {254B368B-9DA0-4D04-8B7D-31C05E76A1D3}
+	EndGlobalSection
+EndGlobal
